@@ -54,5 +54,5 @@ Student ID: 00368852
 
 ## 🔗 GitHub Repository Link
 
-👉 [github.com/Sunjida-Haque/investment-analysis-model](https://github.com/Sunjida-Haque/investment-analysis-model) ← *(update this after uploading)*
+👉 (https://github.com/Sunjida-Haque/investment-analysis-model)
 
